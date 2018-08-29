@@ -1,1 +1,22 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141 70.5"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><clipPath id="clip-path" transform="translate(62)"><path class="cls-1" d="M55,60H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0H55a5,5,0,0,1,5,5V55A5,5,0,0,1,55,60Z"/></clipPath></defs><title>MemberIcon05</title><g class="cls-2"><image width="1024" height="512" transform="scale(0.14)" xlink:href="../Photos/ergazomenos123.jpg"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+</style>
+<title>MemberIcon02</title>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M31,36H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h26c2.8,0,5,2.2,5,5v26C36,33.8,33.8,36,31,36z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		
+			<image style="overflow:visible;" width="1024" height="512" xlink:href="../Photos/ergazomenos123.jpg"  transform="matrix(9.505209e-02 0 0 9.505209e-02 -44.2083 0)">
+		</image>
+	</g>
+</g>
+</svg>
