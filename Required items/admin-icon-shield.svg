@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Admin_Icon_Shield_Group" data-name="Admin Icon Shield Group" transform="translate(-0.8 0)">
+    <rect id="Rectangle_195" data-name="Rectangle 195" class="cls-1" width="10" height="10" rx="2.5" transform="translate(0.8 0)"/>
+    <g id="AdminIconShield" transform="translate(3.8 3)">
+      <path id="AdminIconShield-2" data-name="AdminIconShield" class="cls-2" d="M3.94.062A.189.189,0,0,0,3.8,0H.2A.189.189,0,0,0,.06.062.2.2,0,0,0,0,.207V2.7a1.539,1.539,0,0,0,.1.552,2.1,2.1,0,0,0,.26.486,2.962,2.962,0,0,0,.368.415,4.327,4.327,0,0,0,.4.332q.18.133.38.253l.28.162.128.083a.178.178,0,0,0,.164,0l.132-.066.28-.162a4.36,4.36,0,0,0,.38-.253,4.327,4.327,0,0,0,.4-.332,2.966,2.966,0,0,0,.368-.415,2.1,2.1,0,0,0,.26-.486A1.54,1.54,0,0,0,4,2.7V.207A.2.2,0,0,0,3.94.062ZM3.4,2.7a1.6,1.6,0,0,1-.736,1.166A4.384,4.384,0,0,1,2,4.308V.622H3.4Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
