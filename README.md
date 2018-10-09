@@ -1,6 +1,6 @@
 # meerkat
 
-![Image of meerkat](http://images6.fanpop.com/image/photos/39000000/Meerkats-meerkats-39057430-1600-900.jpg)
+<img title="meerkat image" src="http://images6.fanpop.com/image/photos/39000000/Meerkats-meerkats-39057430-1600-900.jpg" width="100%">
 
 You can see Maestro project prototypes through the links below:
 
