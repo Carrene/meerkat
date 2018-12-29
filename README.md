@@ -1,5 +1,7 @@
 # meerkat
 
+The Maestro web app's UI/UX design
+
 ## Web app
 
 For Preview (https://xd.adobe.com/view/4e411969-89fb-4044-65eb-a544bb33b0f7-3870/)
