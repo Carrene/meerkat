@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<svg version="1.1" id="calendar-multiselect" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 28 28" style="enable-background:new 0 0 28 28;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
+	.st1{fill:#232323;}
 </style>
 <g>
-	<path class="st0" d="M0,0h20v20H0V0z"/>
-	<path d="M16.2,17.1V7.3H3.8v9.8H16.2 M13.6,1.1h1.8v1.8h0.9c1,0,1.8,0.8,1.8,1.8v12.4c0,1-0.8,1.8-1.8,1.8H3.8
-		c-1,0-1.8-0.8-1.8-1.8V4.7c0-1,0.8-1.8,1.8-1.8h0.9V1.1h1.8v1.8h7.1V1.1 M5.6,9.1h1.8v1.8H5.6V9.1 M12.7,9.1h1.8v1.8h-1.8V9.1
-		 M9.1,12.7h1.8v1.8H9.1V12.7 M12.7,12.7h1.8v1.8h-1.8V12.7z"/>
+	<path class="st0" d="M0,0h28v28H0V0z"/>
+	<path id="Path_1033" class="st1" d="M22.7,24V10.2H5.1v14h17.6 M19,1.2h2.6v2.6h1.3c1.4,0,2.6,1.1,2.6,2.5c0,0,0,0,0,0.1v17.8
+		c0,1.4-1.1,2.6-2.5,2.6c0,0,0,0-0.1,0H5.1c-1.4,0-2.6-1.1-2.6-2.5c0,0,0,0,0-0.1V6.3c0-1.4,1.1-2.6,2.5-2.6c0,0,0,0,0.1,0h1.3V1.2
+		H9v2.6h10.1V1.2 M7.6,12.6h2.6v2.6H7.6V12.6 M17.7,12.6h2.6v2.6h-2.6V12.6 M12.6,17.7h2.6v2.6h-2.6L12.6,17.7 M17.7,17.7h2.6v2.6
+		h-2.6L17.7,17.7z"/>
 </g>
 </svg>
