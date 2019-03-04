@@ -4,18 +4,10 @@
 	 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{display:none;}
-	.st2{display:inline;}
 </style>
-<path class="st0" d="M0,0h30v30H0V0z"/>
-<g class="st1">
-	<path class="st2" d="M5,25l10-1.1L25,25l-1-10l1-10L15,6.1L5,5l0.1,1L6,15L5,25z M7.2,15.6h6.3l-7.1,7.1L7.2,15.6z M6.5,7.3
-		l7.1,7.1H7.2L6.5,7.3z M14.4,22.7l-7.1,0.8l7.1-7.1V22.7z M14.4,13.5L7.3,6.5l7.1,0.8V13.5z M15.6,7.3l7.1-0.8l-7.1,7.1V7.3z
-		 M15.6,22.7v-6.3l7.1,7.1L15.6,22.7z M16.5,15.6h6.3l0.7,7.1L16.5,15.6z M22.8,14.4h-6.3l7.1-7.1L22.8,14.4z"/>
+<g>
+	<path class="st0" d="M0,0h30v30H0V0z"/>
+	<path d="M14.4,3L3,15.6L14.4,27L27,16L14.4,3z M13.6,6l-0.7,12.1l-7.7-2.9L13.6,6z M12.8,19.7l0.6,4.3l-6.6-6.6L12.8,19.7z M15,5.6
+		l9.6,9.8l-10.3,2.8L15,5.6z M15,24.6l-0.6-4.9l0,0l8.9-2.4L15,24.6z"/>
 </g>
-<image style="display:none;overflow:visible;" width="564" height="485" xlink:href="../Photos/3b5aa25ea831b5b40adeeaca58e5ea49.jpg"  transform="matrix(5.064905e-02 0 0 5.064905e-02 0.717 2.7176)">
-</image>
-<path d="M14.5,5L5,15.5l9.5,9.5L25,15.8L14.5,5z M13.8,7.5l-0.6,10.1l-6.4-2.4L13.8,7.5z M13.2,18.9l0.5,3.6L8.2,17L13.2,18.9z
-	 M15,7.2l8,8.2l-8.6,2.3L15,7.2z M15,23l-0.5-4.1h0l7.4-2L15,23z"/>
-<rect x="5" y="5" class="st0" width="20" height="20"/>
 </svg>
