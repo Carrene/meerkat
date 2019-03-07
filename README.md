@@ -8,7 +8,7 @@ The Maestro web app's UI/UX design
 
 - [Design specs](https://xd.adobe.com/spec/8b127148-e58b-489a-6b4f-7fa96484987f-fd23/)
 
-</br> 
+</br>
 
 <img title="meerkat image" src="http://images6.fanpop.com/image/photos/39000000/Meerkats-meerkats-39057430-1600-900.jpg" width="100%">
 
