@@ -3,8 +3,8 @@
 ### Release(in order)
 #### Columns:
  - Name
- - Release Date
- - Release Cutoff: The last day that nuggets/features can be accepted for the release to be ready. Project & Nugget statuses are calculated in relation to release cutoff
+ - Release Date: the official date the release is meant to go live. It informs all stakeholders when the Nuggets/Projects in the release will be released.
+ - Release Cutoff: The last day that nuggets/features can be accepted for the release to be ready. Project & Nugget statuses are calculated in relation to release cutoff.
  - Group: releases are tied to a certain group, only users that are member of that group may interact with the release. Only projects of the group may be tied to the release.
  - Project
  - Manager
