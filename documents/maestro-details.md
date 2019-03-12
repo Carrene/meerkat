@@ -52,7 +52,7 @@
  - Tags
  - Project
  - Updated
- - Updated By
+ - Updated By: User Name that made the most recent saved change to the Project. This is recorded in Audit Log
  - Created
  #### Fields:
  - Name
