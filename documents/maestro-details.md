@@ -69,4 +69,65 @@
 ## Modules & Functions
 ### Nugget Sub Modules
 #### Details:
-Name(1-128 char)(required)
+Fields:
+- Name (1-128 char)(required)
+- Type (dropdown select: bug, feature)(required)
+- Project (dropdown select: all available projects)(required)
+- Status (dropdown select: To Do, In Progress, Complete, Done, On Hold)(required)
+- Priority (dropdown select: low, medium, high)(required)
+- Target (calendar)
+- Tags (dropdown select: all available tags)(optional)
+- Related Nuggets (dropdown select: all available nuggets)(optional)
+- Description (0-8192 char)(optional)
+
+Functions: 
+- F1 - New Nugget:
+	(What) Button to create a new nugget and provides empty fields in Details
+	sub-tab in order for a new nugget to be described
+	(How) clicking the ‘New’ button
+	(Default) depending on the module/view
+- F2 - Save:
+	(What) Save button that saves any edits made to the fields in detail tab
+	(How) clicking on ‘Save’ button
+	(Default) Inactive
+
+#### Media:
+‘Media’ consists of Attachments & Links. It contains all of the attachments posted in the chat, as well as the links posted in the chat
+
+Attachments:
+- File Name: name of the uploaded file
+- Date: date the file was uploaded
+- User: user that uploaded the file
+
+Links:
+- Link: the next string of the link itself
+- Date: date the link was posted
+- User: user that posted the link
+
+Functions:
+- F1 - Filter:
+ (What) Filter function to filter by type, date, user
+	(How)
+	(Default) inactive
+
+### Audit Log:
+audit log of every saved change recorded on the selected nugget
+
+Views: Grid View
+
+Grid Columns:
+- Event: attribute that was changed
+- New: new value of the attribute
+- Old: old value of the attribute
+- User: User that made the change
+- Date: DTS of the change made
+
+Functions: 
+- F1 - Filter:
+ (What) Filter function to filter by field changed, date, user
+	(How)
+	(Default) inactive
+- F2 - Sort: 
+	(What) Ascending/Descending sort based on the column clicked
+	(How) By clicking the column header
+	(Default) sort order = date descending (newest events at the top)
