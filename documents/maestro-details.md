@@ -1,14 +1,14 @@
-## Maestro Details
+## Maestro Document
 
 ### Release(in order)
-#### Columns:
+##### Columns:
  - Name
  - Release Date
  - Release Cutoff
  - Group
  - Projects
  - Manager
-#### Fields:
+##### Detail Fields:
  - Name: short name or summary description of the nugget (1-128 char)
  - Release Date: the official date the release is meant to go live. It informs all stakeholders when the Nuggets/Projects in the release will be released.
  - Release Cutoff: The last day that nuggets/features can be accepted for the release to be ready. Project & Nugget statuses are calculated in relation to release cutoff
@@ -18,7 +18,7 @@
  - Description: longer description of the nugget (0-8192 char)
 
 ### Project(in order)
-#### Columns:
+##### Columns:
  - Name
  - Tempo(Green = On Time, Yellow = Delayed, Red = At Risk, Blue = Frozen)
  - Status(Queued, Active, On Hold, Done)
@@ -28,7 +28,7 @@
  - Release Cutoff
  - Current Target: calculated date based on current estimates
  - Manager
-#### Fields:
+##### Detail Fields:
  - Name
  - Release: Associated Release with the project. The Release Cutoff Date is also inherited so that Tempo can be calculated for Projects & Nuggets, and that Release Cutoff can be displayed in the grid for Projects & Nuggets.
  - Workflow: The collection and order of phases that the Projects nuggets will go through. Simple dropdown to select the workflow
@@ -38,7 +38,7 @@
  - Description
 
 ### Nugget/Unread/Subscribed(in order)
-#### Columns:
+##### Columns:
  - Subscribe: A user can set this flag to subscribe to a Nugget. This is unique per user.
  - ID
  - Name
@@ -54,7 +54,7 @@
  - Updated
  - Updated By: User Name that made the most recent saved change to the Project. This is recorded in Audit Log
  - Created
- #### Fields:
+##### Detail Fields:
  - Name
  - Type: Bug or Feature </br>
  When ‘New Nugget’ is clicked, the default value for Type is Feature. Another way of creating a new Nugget is via reporting a bug by right clicking on a Feature Nugget. In that case, the default is ‘Bug’
@@ -65,6 +65,33 @@
  - Tags
  - Related Nuggets: related Nuggets (this is currently referred to as related items in Nutmeg)
  - Description
+
+### Assigned(in order)
+Contains a grid that lists all nuggets the user is assigned to as a resource. These assigned nuggets are further sorted into separate ‘buckets’
+#### In Progress Nuggets 
+User has submitted estimate & WHERE Start Date < Today's Date > Target Date
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- Time Card
+- My Start
+- My Target
+- Hours Worked
+- Project
+- Priority
+##### Time Card Columns:
+- Phase
+- Report Date
+- Hours
+- Notes
+#### Upcoming Nuggets
+-- Comming Soon --
+#### Need Estimate
+User has not yet submitted estimate & When the Phase before the user's assigned phase status was set to 'Complete'
+#### Newly Assigned
+User has not yet submitted estimate & The Phase before the User's assigned phase status is anything other than 'Complete' or 'Done'
 
 ## Modules & Functions
 ### Nugget Sub Modules
