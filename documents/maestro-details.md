@@ -81,18 +81,62 @@ User has submitted estimate & WHERE Start Date < Today's Date > Target Date
 - Hours Worked
 - Project
 - Priority
-##### Time Card Columns:
-- Phase
+#### Upcoming Nuggets
+-- Comming Soon --
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- Starts In
+- My Start
+- My Target
+- Hours Worked
+- Project
+- Priority
+#### Need Estimate
+User has not yet submitted estimate & When the Phase before the user's assigned phase status was set to 'Complete'
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- Response Time
+- Project
+- Priority
+#### Newly Assigned
+User has not yet submitted estimate & The Phase before the User's assigned phase status is anything other than 'Complete' or 'Done'
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- Project
+- Priority
+#### Time Card tab:
+##### Estimate:
+- Start Date
+- Target Date
+- Estimate (hrs)
+##### Columns:
 - Report Date
 - Hours
 - Notes
-#### Upcoming Nuggets
--- Comming Soon --
-#### Need Estimate
-User has not yet submitted estimate & When the Phase before the user's assigned phase status was set to 'Complete'
-#### Newly Assigned
-User has not yet submitted estimate & The Phase before the User's assigned phase status is anything other than 'Complete' or 'Done'
-
+#### Assign Tab:
+##### Columns:
+- Phase
+- Status
+- Start
+- Target
+- Hours worked
+- Load Resource
+##### Resource columns:
+- Resource
+- Status
+- Start
+- Target
+- Hours Worked
+- Load
 ## Modules & Functions
 ### Nugget Sub Modules
 #### Details:
@@ -126,7 +170,7 @@ Attachments:
 - Date: date the file was uploaded
 - User: user that uploaded the file
 
-Links:
+Links: 
 - Link: the next string of the link itself
 - Date: date the link was posted
 - User: user that posted the link
