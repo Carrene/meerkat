@@ -82,7 +82,7 @@ User has submitted estimate & WHERE Start Date < Today's Date > Target Date
 - Project
 - Priority
 #### Upcoming Nuggets
--- Comming Soon --
+User has submitted estimate & WHERE Start Date > Today's Date
 ##### Columns:
 - ID
 - Name
@@ -124,19 +124,23 @@ User has not yet submitted estimate & The Phase before the User's assigned phase
 - Notes
 #### Assign Tab:
 ##### Columns:
-- Phase
-- Status
+- Phase: All the Phases in The Workflow of the selected nugget
+- Status: To Do: All Resources in that phase status = To Do
+In Progress: At least one resource in that phase status = In Progress OR there are no resources that = On Hold and at least one resource =Complete/Done
+On Hold: All resources in that phase status = On Hold OR at least one resource in that phase status = ON Hold AND there is no resource in phase with status = In Progress 
+Complete: All Resources in that phase have minimum status = Complete 
+Done: All resources in that phase have status = Done
 - Start
 - Target
 - Hours worked
 - Load Resource
 ##### Resource columns:
-- Resource
-- Status
-- Start
-- Target
-- Hours Worked
-- Load
+- Resource: Lists all Resources with the associated skill for the selected phase
+- Status: Resources work status 
+- Start: Resources Estimated Start Date
+- Target: Resources Estimated Target Date
+- Hours Worked: Resource Total hours worked/Estimate (h)
+- Load: Resource Workload
 ## Modules & Functions
 ### Nugget Sub Modules
 #### Details:
