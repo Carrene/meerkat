@@ -140,7 +140,7 @@ Done: All resources in that phase have status = Done
 - Start: Resources Estimated Start Date
 - Target: Resources Estimated Target Date
 - Hours Worked: Resource Total hours worked/Estimate (h)
-- Load: Resource Workload
+- Load: Resource Workload (Light/ Medium / Heavy)
 ## Modules & Functions
 ### Nugget Sub Modules
 #### Details:
