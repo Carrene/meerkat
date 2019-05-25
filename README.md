@@ -14,6 +14,11 @@ The Maestro web app's UI/UX design
 
 - [Design specs](https://xd.adobe.com/spec/d0835ef5-cd8f-47f1-5783-ef15206eaf68-a6b2/)
 
+## Assigned page design
+
+- [Prototype](https://xd.adobe.com/view/e153f8bd-1d92-456e-6857-d4f7f3d026f2-9762/)
+
+- [Design specs](https://xd.adobe.com/spec/dd74ed83-fa2d-497f-66b9-e7b8f4c5aa27-ab45/)
 
 </br>
 
