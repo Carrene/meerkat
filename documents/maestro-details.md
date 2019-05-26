@@ -81,6 +81,7 @@ User has submitted estimate & WHERE Start Date < Today's Date > Target Date
 - Hours Worked
 - Project
 - Priority
+- Phase
 #### Upcoming Nuggets
 User has submitted estimate & WHERE Start Date > Today's Date
 ##### Columns:
@@ -94,6 +95,7 @@ User has submitted estimate & WHERE Start Date > Today's Date
 - Hours Worked
 - Project
 - Priority
+- Phase
 #### Need Estimate
 User has not yet submitted estimate & When the Phase before the user's assigned phase status was set to 'Complete'
 ##### Columns:
@@ -104,6 +106,7 @@ User has not yet submitted estimate & When the Phase before the user's assigned 
 - Response Time
 - Project
 - Priority
+- Phase
 #### Newly Assigned
 User has not yet submitted estimate & The Phase before the User's assigned phase status is anything other than 'Complete' or 'Done'
 ##### Columns:
@@ -113,6 +116,7 @@ User has not yet submitted estimate & The Phase before the User's assigned phase
 - Type
 - Project
 - Priority
+- Phase
 #### Time Card tab:
 ##### Estimate:
 - Start Date
