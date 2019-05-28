@@ -61,7 +61,6 @@
  - Project
  - Status(To Do, In Progress, Complete, Done, On Hold) 
  - Priority
- - Target
  - Tags
  - Related Nuggets: related Nuggets (this is currently referred to as related items in Nutmeg)
  - Description
@@ -145,6 +144,40 @@ Done: All resources in that phase have status = Done
 - Target: Resources Estimated Target Date
 - Hours Worked: Resource Total hours worked/Estimate (h)
 - Load: Resource Workload (Light/ Medium / Heavy)
+
+### Good News(in order)
+Contains a grid that lists all nuggets the user is assigned to as a resource. These assigned nuggets are further sorted into separate ‘buckets’
+#### Backlog 
+User has submitted estimate & WHERE Start Date < Today's Date > Target Date
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- Batch: Combo box with numbers to assign batch number, in this example the batch numbers would be, 01, 02, 03, 04. It will always go up one based on the batches already existing. 
+- Phase: control to switch between backlog and triage. 
+- Return to Triage: Date combo box
+- Priority
+- Creator
+
+#### Triage (columns)
+- ID
+- Name
+- Tempo
+- Type
+- Batch
+- Phase
+- Return to Triage: Date combo box
+- Origin: Backlog/New
+based on where the nugget is coming from the backlog or if it is a newly created nugget
+- Priority
+- Creator
+
+#### Need Approval (columns)
+-Phase Completed: the phase that was completed by the resources. Since multiple phases can be completed, there can be some duplicates in the main grid.
+-Approve: checkbox control to approve the 'Complete' and then save it, which will update it to 'Done'
+-Grace Period: timer starting from 48:00 (this is the amount of time the PM has to approve the Completion
+
 ## Modules & Functions
 ### Nugget Sub Modules
 #### Details:
