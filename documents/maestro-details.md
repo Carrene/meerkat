@@ -174,9 +174,9 @@ based on where the nugget is coming from the backlog or if it is a newly created
 - Creator
 
 #### Need Approval (columns)
--Phase Completed: the phase that was completed by the resources. Since multiple phases can be completed, there can be some duplicates in the main grid.
--Approve: checkbox control to approve the 'Complete' and then save it, which will update it to 'Done'
--Grace Period: timer starting from 48:00 (this is the amount of time the PM has to approve the Completion
+- Phase Completed: the phase that was completed by the resources. Since multiple phases can be completed, there can be some duplicates in the main grid.
+- Approve: checkbox control to approve the 'Complete' and then save it, which will update it to 'Done'
+- Grace Period: timer starting from 48:00 (this is the amount of time the PM has to approve the Completion
 
 ## Modules & Functions
 ### Nugget Sub Modules
