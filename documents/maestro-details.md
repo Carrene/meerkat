@@ -136,7 +136,7 @@ Done: All resources in that phase have status = Done
 - Start
 - Target
 - Hours worked
-- Load Resource
+- Lead Resource
 ##### Resource columns:
 - Resource: Lists all Resources with the associated skill for the selected phase
 - Status: Resources work status 
