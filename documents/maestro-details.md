@@ -116,6 +116,18 @@ User has not yet submitted estimate & The Phase before the User's assigned phase
 - Project
 - Priority
 - Phase
+#### Completed/Done
+##### Columns:
+- ID
+- Name
+- Tempo
+- Type
+- My Start
+- My Target
+- Hours Worked
+- Status (Completed / Done)
+- Phase
+- Project
 #### Time Card tab:
 ##### Estimate:
 - Start Date
