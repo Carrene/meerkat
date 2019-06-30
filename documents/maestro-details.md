@@ -195,6 +195,16 @@ based on where the nugget is coming from the backlog or if it is a newly created
 - Grace Period: timer starting from 48:00 (this is the amount of time the PM has to approve the Completion
 - Priority
 
+#### Hours Reported (columns)
+- ID
+- Name
+- Tempo
+- Type
+- Mojo
+- Project
+- Lead Resource
+- Priority
+
 ### Bad News(in order)
 #### Missing Hours (columns)
 - ID
