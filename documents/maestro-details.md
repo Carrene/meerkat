@@ -200,7 +200,7 @@ based on where the nugget is coming from the backlog or if it is a newly created
 - Name
 - Tempo
 - Type
-- Mojo
+- Mojo: 
 - Project
 - Lead Resource
 - Priority
