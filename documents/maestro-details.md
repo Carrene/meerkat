@@ -168,6 +168,7 @@ User has submitted estimate & WHERE Start Date < Today's Date > Target Date
 - Batch: Combo box with numbers to assign batch number, in this example the batch numbers would be, 01, 02, 03, 04. It will always go up one based on the batches already existing. 
 - Phase: control to switch between backlog and triage. 
 - Return to Triage: Date combo box
+- Project
 - Priority
 - Creator
 
@@ -181,6 +182,7 @@ User has submitted estimate & WHERE Start Date < Today's Date > Target Date
 - Return to Triage: Date combo box
 - Origin: Backlog/New
 based on where the nugget is coming from the backlog or if it is a newly created nugget
+- Project
 - Priority
 - Creator
 
@@ -193,6 +195,7 @@ based on where the nugget is coming from the backlog or if it is a newly created
 - Type
 - Batch
 - Grace Period: timer starting from 48:00 (this is the amount of time the PM has to approve the Completion
+- Project
 - Priority
 
 #### Hours Reported (columns)
@@ -200,7 +203,7 @@ based on where the nugget is coming from the backlog or if it is a newly created
 - Name
 - Tempo
 - Type
-- Mojo: 
+- Mojo
 - Project
 - Lead Resource
 - Priority
